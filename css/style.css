@@ -1,38 +1,44 @@
 body{
-  background-color: #D7D7D7;
+  background-image: url("https://media.mnn.com/assets/images/2016/02/deepsea.jpg.653x0_q80_crop-smart.jpg");
 }
 
 h1{
-  color: #805D5D;
+  color: white;
   font-style: oblique;
   font-size: 70px;
-  font-family: fantasy;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
 }
 
 h2{
-  color: #805D5D;
+  color: pink;
   font-size: 50px;
   font-family: fantasy;
+  text-align: center;
 }
 
 h3{
-  background-color: #5D4F78;
   color: white;
   font-size: 40px;
   font-style: italic;
   font-family: fantasy;
+  text-align: center;
 }
 
 p{
   font-family: cursive;
-  color: #4A1511;
+  color: white;
+  text-align: center;
 }
 
 a{
   font-size: 30px;
-  color: black;
+  color: tan;
+  text-align: center;
 }
 
 table{
   font-size: 30px;
+  text-align: center;
+  color: orange;
 }
